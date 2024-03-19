@@ -8,7 +8,7 @@ const FRESHRSS_VERSION = '1.23.2-dev';
 const FRESHRSS_WEBSITE = 'https://freshrss.org';
 const FRESHRSS_WIKI = 'https://freshrss.github.io/FreshRSS/';
 
-const APP_NAME = 'FreshRSS';
+const APP_NAME = 'rss.it.com';
 
 const FRESHRSS_PATH = __DIR__;
 const PUBLIC_PATH = FRESHRSS_PATH . '/p';
